@@ -1,7 +1,7 @@
 function Footer(){
     return(
         <footer>
-            <p>&copy; {new Date().getUTCFullYear()} Mugi.com</p>
+            <p>&copy; {new Date().getUTCFullYear()} IT-SYSARCH32-78722 Made by Lanz Chrischar Silva</p>
         </footer>
     );
 }
