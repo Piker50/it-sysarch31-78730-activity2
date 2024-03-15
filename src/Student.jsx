@@ -20,6 +20,11 @@ export const Students = [{
     email: "News@gmail.com",
   }, {
     id: 4,
+    src: "https://images.gamebanana.com/img/ico/sprays/65511af0a3500.png",
+    name: "Joe Goat",
+    email: "Joe@gmail",
+  }, {
+    id: 5,
     src: "https://i.pinimg.com/originals/d1/53/ed/d153ed421f05e4201cd8b2b75ba94baf.jpg",
     name: "Polar Bear",
     email: "Polar@gmail",
